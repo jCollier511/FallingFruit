@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap');
+
+ol{
+  list-style-position: inside;
+}
+
+.card-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

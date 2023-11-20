@@ -1,0 +1,8 @@
+{
+    "presets":{
+        "gameLength": 20,
+        "fruitOccorance": 0.5,
+        "minFruitSpeed": 200,
+        "maxFruitSpeed": 1000
+    }
+}
